@@ -1,0 +1,109 @@
+.ui-widgets .ui-values{
+    width: 10rem;
+    height: 10rem;
+    font-weight: 700;
+    font-size:20px;
+    border-radius: 9rem;
+    margin: 1.5rem;
+    padding: 3rem;
+    border: 1rem solid red;
+    border-bottom-color: white;
+    border-bottom-color: white;
+    box-shadow: inset 0 0 7px grey;
+    /* border-bottom-color:white ; */
+} 
+.ui-widgets:nth-child(2) .ui-values {
+    width: 10rem;
+    height: 10rem;
+    font-weight: 700;
+    font-size:20px;
+    border-radius: 9rem;
+    margin: 1.5rem;
+    padding: 3rem;
+    border: 1rem solid #49D293;
+    border-bottom-color: white;
+    border-right-color: white;
+    box-shadow: inset 0 0 7px grey;
+    /* border-bottom-color:white ; */
+} 
+.ui-widgets:nth-child(3) .ui-values{
+    width: 10rem;
+    height: 10rem;
+    font-weight: 700;
+    font-size:20px;
+    border-radius: 9rem;
+    margin: 1.5rem;
+    padding: 3rem;
+    border: 1rem solid #4C8DF1;
+    border-right-color: lightblue;
+    border-bottom-color: white;
+    box-shadow: inset 0 0 7px grey;
+    /* border-bottom-color:white ; */
+} 
+.ui-widgets:nth-child(4) .ui-values{
+    width: 10rem;
+    height: 10rem;
+    font-weight: 700;
+    font-size:20px;
+    border-radius: 9rem;
+    margin: 1.5rem;
+    padding: 3rem;
+    border: 1rem solid #ffaf38;
+    /* border-top-color: #f4b557; */
+    border-right-color: #ffaf58;
+    border-bottom-color: white;
+    box-shadow: inset 0 0 7px grey;
+    /* border-bottom-color:white ; */
+} 
+ 
+
+
+
+.card-img1{
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-color: rgb(0, 0, 0);
+    background-image: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0.6)
+    ),url(/images/play-hockey-green.png); 
+ 
+} 
+
+.card-img2{
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-color: rgb(0, 0, 0);
+    background-image: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0.6)
+    ),url(/images/hockeystick.png); 
+ 
+} 
+
+.card-img3{
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-color: rgb(0, 0, 0);
+    background-image: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0.6)
+    ),url(/images/play-hockey-retro.png); 
+ 
+} 
+
+.icon{
+    margin: 2px 10px;
+}
+
+
+
